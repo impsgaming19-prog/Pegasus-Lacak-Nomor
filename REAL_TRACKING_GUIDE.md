@@ -17,7 +17,7 @@ API_ENABLED = True
 # Masukkan API Key Anda
 API_KEYS = {
     "primary": "YOUR_API_KEY_HERE",  # Ganti dengan API key Anda
-    "secondary": ""  # Backup API key (optional)
+    "secondary": "04a8d5194795e9902ecf5d1a"  # Backup API key (optional)
 }
 
 # Konfigurasi API Endpoints
